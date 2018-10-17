@@ -1,0 +1,16 @@
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\DemoUnitTestProject.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\DemoUnitTestProject.pdb
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csprojAssemblyReference.cache
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.CoreCompileInputs.cache
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.CopyComplete
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.pdb
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Calculator.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Debug\Calculator.pdb

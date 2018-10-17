@@ -1,0 +1,16 @@
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\DemoUnitTestProject.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\DemoUnitTestProject.pdb
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Calculator.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Calculator.pdb
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Release\DemoUnitTestProject.csprojAssemblyReference.cache
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Release\DemoUnitTestProject.csproj.CoreCompileInputs.cache
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Release\DemoUnitTestProject.csproj.CopyComplete
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Release\DemoUnitTestProject.dll
+D:\R&D\K3A\UnitTest\DemoUnitTestProject\DemoUnitTestProject\obj\Release\DemoUnitTestProject.pdb
